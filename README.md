@@ -7,4 +7,4 @@
 
 Источники:
 - Сайт ловушка
-IP проверены с помошью SpamHouse,Abuseipdb.com,CleanTalk + логи.
+- IP проверены с помошью SpamHouse, Abuseipdb.com,CleanTalk + логи.
